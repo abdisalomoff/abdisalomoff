@@ -3,6 +3,6 @@ Web Developer <br>
 <h3>How to reach me:
   <a href = "mailto: Avazbek6757@gmail.com"> Avazbek6757@gmail.com </a>
 </h3>
-<a href="https://t.me/abdisalomov">
+<a href="https://t.me/abdisalomov" style="display: flex;">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20px"> <h4>Telegram</h4>
 </a>
