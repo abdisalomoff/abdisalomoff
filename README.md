@@ -28,3 +28,7 @@ Web Developer <br>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+### 
+
+![snake gif](https://github.com/abdisalomoff/abdisalomoff/blob/output/github-contribution-grid-snake.gif)
