@@ -20,7 +20,7 @@ Web Developer <br>
 
 <div align="left">
   <a href="https://www.instagram.com/abdisalomoff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="border-radius:50%" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%" style="border-radius:50%" height="25" alt="instagram logo"  />
   </a>
   <a href="https://t.me/abdisalomov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
