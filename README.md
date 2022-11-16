@@ -22,9 +22,9 @@ Web Developer <br>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%" height="25" alt="instagram logo"  />
   </a>
   <a href="https://t.me/abdisalomov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%=&style=margin-right: 10px" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%=&style=margin-left: 10px" height="25" alt="telegram logo"  />
   </a>
   <a href="Avazbek6757@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%=&style=margin-right: 10px" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge=&style=border-radius:50%=&style=margin-left: 10px" height="25" alt="gmail logo"  />
   </a>
 </div>
