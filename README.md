@@ -8,6 +8,6 @@ Web Developer <br>
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20px">
   </a>
   <a href="https://t.me/abdisalomov" style="display: flex; align-items: center;">
-    <span style="color: yellow;">Telegram</span>
+    <span style="font-size:30px">Telegram</span>
   </a>
 </div>
