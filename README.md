@@ -2,6 +2,6 @@
 Web Developer <br>
 <h3>How to reach me:
   <a href = "mailto: Avazbek6757@gmail.com">
-    <img href="https://www.flaticon.com/free-icon/mail_6806987?term=email&page=1&position=55&page=1&position=55&related_id=6806987&origin=search" width="20px">
+    <img href="https://cdn-icons-png.flaticon.com/512/6806/6806987.png" width="20px">
     Avazbek6757@gmail.com </a>
 </h3>
